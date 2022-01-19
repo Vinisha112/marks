@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-image: url(https://us.123rf.com/450wm/neirfy/neirfy1806/neirfy180600295/103601719-flat-lay-frame-of-old-books-on-blue-background-with-copy-space-retro-toned.jpg?ver=6);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table,th,td{
+    border-collapse: collapse;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-top: 2px solid black;
+    margin-left: 450px;
+    margin-top: 250px;
+}
+td{
+    padding: 15px;
+    border-bottom: 1px solid black;
+    font-weight: 600;
+}
+.heading td{
+    background: red;
+    color: white;
+    font-weight: 600;
+}
+h1{
+    color: lemonchiffon;
+}
+
